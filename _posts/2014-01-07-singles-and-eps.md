@@ -1,0 +1,63 @@
+---
+layout: post
+title: |
+    Discography: Albums
+category : discography
+tagline: "U2's studio albums and officially released live compilations"
+tags : [discography, albums]
+---
+{% include JB/setup %}
+
+The following is a list of U2's commercially released singles. The intent is to provide general information, not to cover every variation of every single in each country that it was released.
+
+* U2:3 [Ireland only, September 1979]
+* Another Day [Ireland only, February 1980]
+* 11 O'Clock Tick Tock [May 1980]
+* A Day Without Me [August 1980]
+* I Will Follow [October 1980]
+* Fire [June 1981]
+* Gloria [October 1981]
+* A Celebration [October 1982]
+* New Year's Day [January 1983]
+* Two Hearts Beat as One [March 1983]
+* Sunday Bloody Sunday [Germany / The Netherlands only, March 1983]
+* "40" [Germany only, August 1983]
+* I Will Follow (Live) [North America only, October 1983]
+* Pride (In the Name of Love) [September 1984]
+* The Unforgettable Fire [April 1985]
+* Wide Awake in America (EP) [May 1985]
+* With or Without You [March 1987]
+* I Still Haven't Found What I'm Looking For [May 1987]
+* Where the Streets Have No Name [August 1987]
+* In God's Country [North America only, November 1987]
+* One Tree Hill [New Zealand / Australia only, March 1988]
+* Desire [September 1988]
+* Angel of Harlem [December 1988]
+* When Love Comes To Town [April 1989]
+* All I Want Is You [June 1989]
+* The Fly [October 1991]
+* Mysterious Ways [December 1991]
+* One [February 1992]
+* Even Better Than the Real Thing [June 1992]
+* Who's Gonna Ride Your Wild Horses [November 1992]
+* Numb [August 1993]
+* Stay (Faraway, So Close!) / I've Got You Under My Skin [November 1993]
+* Hold Me, Thrill Me, Kiss Me, Kill Me [June 1995]
+* Miss Sarajevo [September 1995]
+* Discotheque [January 1997]
+* Staring at the Sun [March 1997]
+* Last Night on Earth [July 1997]
+* Please [September 1997]
+* If God Will Send His Angels [December 1997]
+* Sweetest Thing [October 1998]
+* Beautiful Day [September 2000]
+* Stuck In A Moment You Can't Get Out Of [January 2001 / September 2001]
+* Walk On [January 2001 / November 2001]
+* Elevation [June 2001]
+* 7 (EP) [January 2002]
+* Electrical Storm [October 2002]
+* Vertigo [November 2004]
+* All Because of You [February 2005 / October 2005]
+* Sometimes You Can't Make It On Your Own [February 2005]
+* City of Blinding Lights [June 2005]
+* All Because of You [October 2005]

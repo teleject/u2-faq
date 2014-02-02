@@ -12,6 +12,6 @@ categories:
 
 ##Wait!! I don't see a boy on the Boy cover!!
 
-That's probably because you have the U.S. release of the album, which was censored / edited by Warner Records for fear of paedophilia claims. 
+That&#8217;s probably because you have the U.S. release of the album, which was censored / edited by Warner Records for fear of paedophilia claims. 
 
-The cover was changed in the States because of "a vague worry at the label that there might be a homosexual impression left from the boy's waist-up nakedness." (quote from former Principle Mgmt. director Ellen Darst) [SL, RA, Ge]
+The cover was changed in the States because of &#8220;a vague worry at the label that there might be a homosexual impression left from the boy&#8217;s waist-up nakedness.&#8221; (quote from former Principle Mgmt. director Ellen Darst) [SL, RA, Ge]

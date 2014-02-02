@@ -1,13 +1,14 @@
 ---
 layout: post
 title: |
-    History: Where does the name "U2" come from?
+    History: Where does the name U2 come from?
 category : history
 description: |
 	"The number of band members in U2 has always stayed the same."
 categories:
 	- History
 ---
+{% include JB/setup %}
 
 ##Where does the name "U2" come from?
 

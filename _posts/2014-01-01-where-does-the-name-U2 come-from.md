@@ -3,13 +3,10 @@ layout: post
 title: |
     History: Who started U2 and when
 category : history
-description: |
-	"Origins of the band's name came from a friend"
+tagline: "Origins of the band's name came from a friend"
 tags : [history, name]
 ---
 {% include JB/setup %}
-
-##Where does the name "U2" come from?
 
 In the band's very early beginnings, circa 1978, Adam Clayton asked Steve Averill (formerly known as Steve Rapid of the band Radiators From Space) to help the band come up with a good name. 
 

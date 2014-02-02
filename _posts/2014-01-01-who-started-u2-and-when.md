@@ -5,8 +5,7 @@ title: |
 category : history
 description: |
 	"How the band got started"
-categories:
-	- History
+tags : [history, members, nicknames]
 ---
 {% include JB/setup %}
 

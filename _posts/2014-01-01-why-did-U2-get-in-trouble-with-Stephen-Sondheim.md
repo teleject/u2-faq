@@ -5,8 +5,7 @@ title: |
 category : history
 description: |
 	"Music licensing issues with another song writer mess up album covers"
-categories:
-	- History
+tags : [history, legal, war]
 ---
 {% include JB/setup %}
 

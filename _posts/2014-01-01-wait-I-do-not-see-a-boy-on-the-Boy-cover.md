@@ -5,8 +5,7 @@ title: |
 category : history
 description: |
 	"Friend of the band is the album cover model"
-categories:
-	- History
+tags : [history, album, war]
 ---
 {% include JB/setup %}
 

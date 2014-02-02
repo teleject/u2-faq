@@ -5,8 +5,7 @@ title: |
 category : history
 description: |
 	"The number of band members in U2 has always stayed the same."
-categories:
-	- History
+tags : [history, name]
 ---
 {% include JB/setup %}
 

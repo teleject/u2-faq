@@ -5,8 +5,7 @@ title: |
 category : history
 description: |
 	"Origins of the band's name came from a friend"
-categories:
-	- History
+tags : [history, name]
 ---
 {% include JB/setup %}
 

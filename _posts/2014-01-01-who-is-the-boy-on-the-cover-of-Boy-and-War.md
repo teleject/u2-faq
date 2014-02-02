@@ -3,8 +3,7 @@ layout: post
 title: |
     History: Who's the boy on the cover of Boy and War
 category : history
-description: |
-	"Friend of the band is the album cover model"
+tagline: "Friend of the band is the album cover model"
 tags : [history, album, boy, war]
 ---
 {% include JB/setup %}

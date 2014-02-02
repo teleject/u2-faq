@@ -3,8 +3,7 @@ layout: post
 title: |
     History: Why did U2 get in trouble with Stephen Sondheim
 category : history
-description: |
-	"Music licensing issues with another song writer mess up album covers"
+tagline: "Music licensing issues with another song writer mess up album covers"
 tags : [history, legal, war]
 ---
 {% include JB/setup %}

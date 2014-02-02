@@ -8,7 +8,6 @@ tags : [history, album, war]
 ---
 {% include JB/setup %}
 
-##Wait!! I don't see a boy on the Boy cover!!
 
 That&#8217;s probably because you have the U.S. release of the album, which was censored / edited by Warner Records for fear of paedophilia claims. 
 

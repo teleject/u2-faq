@@ -8,7 +8,6 @@ tags : [history, legal, war]
 ---
 {% include JB/setup %}
 
-##Why did U2 get in trouble with Stephen Sondheim?
 
 When U2 first released Under a Blood Red Sky, the original version of "The Electric Co." that was on the album included a 27-second snippet of Bono singing Sondheim's "Send In The Clowns." 
 

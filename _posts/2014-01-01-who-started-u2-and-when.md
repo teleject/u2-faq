@@ -3,13 +3,10 @@ layout: post
 title: |
     History: Who started U2 and when
 category : history
-description: |
-	"How the band got started"
+tagline: "How the band got started"
 tags : [history, members, nicknames]
 ---
 {% include JB/setup %}
-
-##Who started U2 and when? How did they get those wacky nicknames?
 
 Larry Mullen, Jr., was born on October 31, 1961, in Dublin. He was two years behind Bono in high school but both noticed each other. It was Larry who posted an ad on a bulletin board at school looking for musicians to start a band. 
 

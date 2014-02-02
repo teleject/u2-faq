@@ -8,9 +8,7 @@ tags : [history, album, boy, war]
 ---
 {% include JB/setup %}
 
-##Who's the boy on the cover of *Boy* and *War*
-
-His name is Peter Rowen. 
+The person on the album covers of *War* and *Boy* is Peter Rowen. 
 
 He was a kid who lived across the street in front of Bono's house in Dublin.
 

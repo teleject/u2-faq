@@ -8,6 +8,7 @@ description: |
 categories:
 	- History
 ---
+{% include JB/setup %}
 
 ##Who started U2 and when? How did they get those wacky nicknames?
 

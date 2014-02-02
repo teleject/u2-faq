@@ -8,6 +8,7 @@ description: |
 categories:
 	- History
 ---
+{% include JB/setup %}
 
 ##Why did U2 get in trouble with Stephen Sondheim?
 

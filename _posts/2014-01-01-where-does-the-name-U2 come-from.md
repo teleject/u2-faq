@@ -8,6 +8,7 @@ description: |
 categories:
 	- History
 ---
+{% include JB/setup %}
 
 ##Where does the name "U2" come from?
 

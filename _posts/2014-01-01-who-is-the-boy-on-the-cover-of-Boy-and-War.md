@@ -8,6 +8,7 @@ description: |
 categories:
 	- History
 ---
+{% include JB/setup %}
 
 ##Who's the boy on the cover of *Boy* and *War*
 

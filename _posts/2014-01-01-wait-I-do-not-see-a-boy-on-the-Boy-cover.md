@@ -8,6 +8,7 @@ description: |
 categories:
 	- History
 ---
+{% include JB/setup %}
 
 ##Wait!! I don't see a boy on the Boy cover!!
 

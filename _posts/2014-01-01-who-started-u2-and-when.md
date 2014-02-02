@@ -2,7 +2,7 @@
 layout: post
 title: |
     History: Who started U2 and when
-category : lessons
+category : history
 description: |
 	"How the band got started"
 categories:

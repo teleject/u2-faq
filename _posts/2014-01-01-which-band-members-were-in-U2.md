@@ -2,7 +2,7 @@
 layout: post
 title: |
     History: Where does the name "U2" come from?
-category : lessons
+category : history
 description: |
 	"The number of band members in U2 has always stayed the same."
 categories:

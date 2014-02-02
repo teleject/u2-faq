@@ -2,7 +2,7 @@
 layout: post
 title: |
     History: Who started U2 and when
-category : lessons
+category : history
 description: |
 	"Origins of the band's name came from a friend"
 categories:

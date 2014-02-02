@@ -1,10 +1,13 @@
 ---
 layout: post
+title: |
+    History: Who started U2 and when
 category : lessons
-tagline: "Supporting tagline"
-tags : [history, beginner, jekyll, tutorial]
+description: |
+	"How the band got started"
+categories:
+	- History
 ---
-{% include JB/setup %}
 
 ##Who started U2 and when? How did they get those wacky nicknames?
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: |
-    Discography: Albums
+    Discography: Singles
 category : discography
-tagline: "U2's studio albums and officially released live compilations"
-tags : [discography, albums]
+tagline: "The listing of U2's commercially released singles"
+tags : [discography, singles]
 ---
 {% include JB/setup %}
 

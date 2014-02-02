@@ -4,7 +4,7 @@ title: |
     Discography: Solo Contribution to Anthologies, Tributes or Charity Albums 
 category : discography
 tagline: "This list includes solo appearances by the band members on various artist anthologies"
-tags : [discography, albums]
+tags : [discography, solo, albums, albums, tributes, anthologies]
 ---
 {% include JB/setup %}
 

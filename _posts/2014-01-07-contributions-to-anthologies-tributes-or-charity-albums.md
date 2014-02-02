@@ -4,7 +4,7 @@ title: |
     Discography: Contribution to Anthologies, Tributes or Charity Albums
 category : discography
 tagline: "This list includes appearances by the entire bands"
-tags : [discography, albums]
+tags : [discography, albums, tributes, anthologies]
 ---
 {% include JB/setup %}
 

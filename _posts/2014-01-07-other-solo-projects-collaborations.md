@@ -1,10 +1,10 @@
 ---
 layout: post
 title: |
-    Discography: Solo Contribution to Anthologies, Tributes or Charity Albums
+    Discography: Other Solo Projects or Contributions
 category : discography
 tagline: "Band members participating in other projects"
-tags : [discography, albums]
+tags : [discography, projects, solo]
 ---
 {% include JB/setup %}
 
